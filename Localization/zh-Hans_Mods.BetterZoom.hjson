@@ -24,7 +24,7 @@ Configs: {
 
 		disableUIZoomHotkey: {
 			Label: 禁用UI比例快捷键
-			Tooltip: 禁用Shift & +/Shift & -两个更改UI比例的快捷键
+			Tooltip: 禁用[Shift & +]/[Shift & -]两个更改UI比例的快捷键
 		}
 
 		renderMoreTiles: {
